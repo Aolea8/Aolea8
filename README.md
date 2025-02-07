@@ -4,7 +4,7 @@ Soy un **Desarrollador de Software** apasionado por crear aplicaciones completas
 
 🌟 **Siempre aprendiendo**, siempre buscando nuevas tecnologías y retos para mejorar mis habilidades.
 
-![Coding Hard]([https://media.giphy.com/media/3o7btVqlqzZl0w2bmM/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUwb2swa25ibzRhemd1dTJlaGN2NDJsM2d6YjV4cXFsMzNmcmZxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif))
+![Coding Hard]([[https://media.giphy.com/media/3o7btVqlqzZl0w2bmM/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUwb2swa25ibzRhemd1dTJlaGN2NDJsM2d6YjV4cXFsMzNmcmZxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNqeGV2NGl2MDM5ODljOWMyNWU0dTl1c3Vjamt4cncxemczYmMwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif))
 
 
 ---
