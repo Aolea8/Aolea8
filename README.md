@@ -34,7 +34,7 @@ Soy un **Desarrollador de Software** apasionado por crear aplicaciones completas
 ---
 
 ## 📫 Let's Connect
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Logo_2023.png)](mailto:arnauolea@gmail.com)
+- [Email](mailto:arnauolea@gmail.com)
 
 
 
