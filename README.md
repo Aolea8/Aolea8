@@ -34,7 +34,7 @@ Soy un **Desarrollador de Software** apasionado por crear aplicaciones completas
 ---
 
 ## 📫 Let's Connect
-[![Gmail](![image](https://github.com/user-attachments/assets/02f0cb93-82d9-4bf7-8383-ec22f609c608)
+[![Gmail](![image]([https://github.com/user-attachments/assets/02f0cb93-82d9-4bf7-8383-ec22f609c608](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Fsearch%3Fq%3Dgmail&psig=AOvVaw3pbq6cohsX2ROWtOUqB6kD&ust=1739007429245000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDirtOhsYsDFQAAAAAdAAAAABAE))
 )](mailto:arnauolea@gmail.com)
 
 
