@@ -1,54 +1,68 @@
-# ¡Hola, soy Arnau! 👋
+# 👨‍💻 **¡Hola, soy Arnau!** 🚀
 
-Soy un **Desarrollador de Software** apasionado por crear aplicaciones completas y eficientes. Tengo experiencia trabajando en proyectos con **C#**, **Python**, **PHP**, **JavaScript**, **HTML**, y **CSS**. Me encanta transformar ideas en soluciones funcionales y eficientes.
+Soy un **Desarrollador de Software** con experiencia en la creación de aplicaciones utilizando **C#**, **Python**, **PHP**, **JavaScript**, **HTML**, **CSS**, entre otros.
 
-🌟 **Siempre aprendiendo**, siempre buscando nuevas tecnologías y retos para mejorar mis habilidades.
-
-![Programming GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUwb2swa25ibzRhemd1dTJlaGN2NDJsM2d6YjV4cXFsMzNmcmZxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
-
-
+Me apasiona resolver problemas mediante el código y siempre estoy en la búsqueda de nuevas tecnologías para mejorar mis habilidades.
 
 ---
 
-## 🚀 Mis Habilidades
-### **Lenguajes de Programación:**
-- **C#** (Windows Forms, .NET)
-- **Python** (Flask, Django)
-- **PHP** (Laravel)
-- **JavaScript** (Node.js, React)
-- **HTML5**, **CSS3**
+## 🛠️ **Tecnologías que manejo** 🔧
 
-### **Frameworks que he utilizado:**
-- **React** – Para crear interfaces de usuario dinámicas.
-- **Laravel** – Para desarrollar aplicaciones web robustas y rápidas.
-
-### **Bases de Datos:**
-- **MySQL** – Gestión de bases de datos relacionales.
-- **Oracle** – Experiencia trabajando con bases de datos a gran escala.
+| Lenguaje/Herramienta | 💻 Descripción                        |
+| -------------------- | ------------------------------------- |
+| **C#**               | Desarrollo de aplicaciones de escritorio usando Windows Forms. |
+| **Python**           | Creación de aplicaciones web con Flask y Django. |
+| **PHP**              | Desarrollo web full-stack con Laravel. |
+| **JavaScript**       | Desarrollo frontend con React.       |
+| **HTML/CSS**         | Creación de interfaces responsivas y limpias. |
 
 ---
 
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnau&show_icons=true&count_private=true&hide_title=true&theme=radical)
+## 🌱 **Actualmente aprendiendo** 📚
+
+Estoy profundizando en **Docker** y **DevOps** para mejorar mi flujo de trabajo y desplegar aplicaciones de manera más eficiente. ¡Siempre buscando formas de optimizar el código y el entorno de desarrollo!
 
 ---
 
-## 📫 Let's Connect
-- [Email](mailto:arnauolea@gmail.com)
+## 🌍 **Conéctemos** 📬
 
+¡Hablemos! Si quieres ponerte en contacto, no dudes en escribirme a través de:
 
-
-
----
-
-## 🌱 Aprendiendo Nuevas Habilidades
-Actualmente estoy aprendiendo más sobre **DevOps** y **Docker** para optimizar el flujo de trabajo y mejorar mis conocimientos de **contenedorización**.
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/6/63/Gmail_Logo_2023.png)](mailto:arnau@correo.com)
 
 ---
 
-## 🎮 Diversión Fuera del Código
-Cuando no estoy programando, me gusta **jugar videojuegos**, explorar nuevas tecnologías.
+## 📂 **Proyectos destacados** 💡
+
+Aquí te muestro algunos de mis proyectos que reflejan mis habilidades:
+
+### 1. **[Aplicación de Gestión de Tareas](https://github.com/arnau/tareas-app)**
+Una **aplicación de escritorio en C#** para gestionar tareas diarias. Incluye notificaciones y seguimiento de tareas.
+
+### 2. **[Sistema de Inventarios](https://github.com/arnau/inventarios-laravel)**
+Un sistema de inventarios completo, construido con **Laravel** y **MySQL**, para gestionar existencias de productos y reportes.
+
+### 3. **[Sitio Web Personal (Portfolio)](https://github.com/arnau/portfolio)**
+Un portfolio interactivo y responsivo creado con **React** y **CSS**.
 
 ---
 
-¡Gracias por visitar mi perfil! 😄
+## 💻 **Estadísticas de GitHub** 📊
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=arnau&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+---
+
+## 🎮 **Dato curioso** 🕹️
+
+Cuando no estoy programando, me encanta jugar juegos de estrategia y explorar nuevas tecnologías dentro de la comunidad de desarrollo.
+
+---
+
+**¡Gracias por visitar mi perfil!** 👨‍💻🚀
+
+---
+
+<!-- Banner de "Programador" -->
+![Banner de Programador](https://img.shields.io/badge/Developer-Full_Stack-4c8bf5?style=for-the-badge&logo=appveyor)
+
