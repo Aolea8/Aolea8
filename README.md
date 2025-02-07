@@ -1,16 +1,52 @@
-## Hi there 👋
+# ¡Hola, soy Arnau! 👋
 
-<!--
-**Aolea8/Aolea8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Desarrollador de Software** apasionado por crear aplicaciones completas y eficientes. Tengo experiencia trabajando en proyectos con **C#**, **Python**, **PHP**, **JavaScript**, **HTML**, y **CSS**. Me encanta transformar ideas en soluciones funcionales y eficientes.
 
-Here are some ideas to get you started:
+🌟 **Siempre aprendiendo**, siempre buscando nuevas tecnologías y retos para mejorar mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Coding Hard](https://media.giphy.com/media/3o7btVqlqzZl0w2bmM/giphy.gif)
+
+
+---
+
+## 🚀 Mis Habilidades
+### **Lenguajes de Programación:**
+- **C#** (Windows Forms, .NET)
+- **Python** (Flask, Django)
+- **PHP** (Laravel)
+- **JavaScript** (Node.js, React)
+- **HTML5**, **CSS3**
+
+### **Frameworks que he utilizado:**
+- **React** – Para crear interfaces de usuario dinámicas.
+- **Laravel** – Para desarrollar aplicaciones web robustas y rápidas.
+
+### **Bases de Datos:**
+- **MySQL** – Gestión de bases de datos relacionales.
+- **Oracle** – Experiencia trabajando con bases de datos a gran escala.
+
+---
+
+## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnau&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+---
+
+## 📫 ¿Conectamos?
+- [LinkedIn](https://www.linkedin.com/in/arnau/)
+- [Portfolio](https://arnau-portfolio.com)
+- [Email](mailto:arnau@correo.com)
+
+---
+
+## 🌱 Aprendiendo Nuevas Habilidades
+Actualmente estoy aprendiendo más sobre **DevOps** y **Docker** para optimizar el flujo de trabajo y mejorar mis conocimientos de **contenedorización**.
+
+---
+
+## 🎮 Diversión Fuera del Código
+Cuando no estoy programando, me gusta **jugar videojuegos**, explorar nuevas tecnologías, y compartir conocimientos en comunidades de desarrollo.
+
+---
+
+¡Gracias por visitar mi perfil! 😄
