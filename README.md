@@ -28,22 +28,7 @@ Estoy profundizando en **Docker** y **DevOps** para mejorar mi flujo de trabajo 
 
 ¡Hablemos! Si quieres ponerte en contacto, no dudes en escribirme a través de:
 
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/6/63/Gmail_Logo_2023.png)](mailto:arnau@correo.com)
-
----
-
-## 📂 **Proyectos destacados** 💡
-
-Aquí te muestro algunos de mis proyectos que reflejan mis habilidades:
-
-### 1. **[Aplicación de Gestión de Tareas](https://github.com/arnau/tareas-app)**
-Una **aplicación de escritorio en C#** para gestionar tareas diarias. Incluye notificaciones y seguimiento de tareas.
-
-### 2. **[Sistema de Inventarios](https://github.com/arnau/inventarios-laravel)**
-Un sistema de inventarios completo, construido con **Laravel** y **MySQL**, para gestionar existencias de productos y reportes.
-
-### 3. **[Sitio Web Personal (Portfolio)](https://github.com/arnau/portfolio)**
-Un portfolio interactivo y responsivo creado con **React** y **CSS**.
+[Email](mailto:arnau@correo.com)
 
 ---
 
@@ -65,4 +50,6 @@ Cuando no estoy programando, me encanta jugar juegos de estrategia y explorar nu
 
 <!-- Banner de "Programador" -->
 ![Banner de Programador](https://img.shields.io/badge/Developer-Full_Stack-4c8bf5?style=for-the-badge&logo=appveyor)
+![My Skills](https://img.shields.io/badge/Skills-C%23%20%7C%20Python%20%7C%20JavaScript-blue?style=flat-square)
+
 
