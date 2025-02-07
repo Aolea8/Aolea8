@@ -34,9 +34,7 @@ Soy un **Desarrollador de Software** apasionado por crear aplicaciones completas
 ---
 
 ## 📫 ¿Conectamos?
-- [LinkedIn](https://www.linkedin.com/in/arnau/)
-- [Portfolio](https://arnau-portfolio.com)
-- [Email](mailto:arnau@correo.com)
+- [Email](arnauolea@gmail.com)
 
 ---
 
@@ -46,7 +44,7 @@ Actualmente estoy aprendiendo más sobre **DevOps** y **Docker** para optimizar 
 ---
 
 ## 🎮 Diversión Fuera del Código
-Cuando no estoy programando, me gusta **jugar videojuegos**, explorar nuevas tecnologías, y compartir conocimientos en comunidades de desarrollo.
+Cuando no estoy programando, me gusta **jugar videojuegos**, explorar nuevas tecnologías.
 
 ---
 
