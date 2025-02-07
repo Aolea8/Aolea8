@@ -50,6 +50,5 @@ Cuando no estoy programando, me encanta jugar juegos de estrategia y explorar nu
 
 <!-- Banner de "Programador" -->
 ![Banner de Programador](https://img.shields.io/badge/Developer-Full_Stack-4c8bf5?style=for-the-badge&logo=appveyor)
-![My Skills](https://img.shields.io/badge/Skills-C%23%20%7C%20Python%20%7C%20JavaScript-blue?style=flat-square)
 
 
